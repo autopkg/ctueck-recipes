@@ -1,8 +1,10 @@
 munkitools5.munki
 Adium.munki
 iTerm2.munki
-GIMP.munki
-LibreOffice.munki
+GIMP-x86_64.munki
+GIMP-arm64.munki
+LibreOffice-x86_64.munki
+LibreOffice-aarch64.munki
 NextcloudDesktopClient.munki
 ProfileCreator.munki
 FirefoxSignedPkg.munki
@@ -10,6 +12,7 @@ Thunderbird.munki
 VLC.munki
 Wireshark.munki
 Signal.munki
-Inkscape.munki
+Inkscape-x86_64.munki
+Inkscape-arm64.munki
 Syncthing.munki
 Zoom.munki
