@@ -15,5 +15,6 @@ Wireshark.munki
 Signal.munki
 Inkscape-x86_64.munki
 Inkscape-arm64.munki
+Slack.munki
 Syncthing.munki
 Zoom.munki
