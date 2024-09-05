@@ -9,7 +9,7 @@ LibreOffice-aarch64.munki
 NextcloudDesktopClient.munki
 ProfileCreator.munki
 FirefoxSignedPkg.munki
-Thunderbird.munki
+ThunderbirdSignedPkg.munki
 VLC.munki
 Wireshark.munki
 Signal.munki
